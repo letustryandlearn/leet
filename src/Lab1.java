@@ -1,2 +1,5 @@
+
 public class Lab1 {
+  
 }
+
